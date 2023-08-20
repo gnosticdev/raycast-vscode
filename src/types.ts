@@ -32,6 +32,7 @@ export enum VSCodeBuild {
   Code = "Code",
   Insiders = "Code - Insiders",
   VSCodium = "VSCodium",
+  Cursor = "Cursor",
 }
 
 export type Preferences = {

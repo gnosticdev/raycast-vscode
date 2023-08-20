@@ -15,10 +15,14 @@
     "vimtor",
     "tonka3000",
     "fazle_rabbi",
-    "oilbeater"
+    "oilbeater",
+    "ninxa"
   ],
   "keywords": [
-    "vscode"
+    "vscode",
+    "cursor",
+    "ide",
+    "code editor"
   ],
   "license": "MIT",
   "commands": [
