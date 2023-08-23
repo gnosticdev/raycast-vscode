@@ -12,7 +12,7 @@ function getBundleIdentifier() {
     case VSCodeBuild.VSCodium:
       return "VSCodium";
     case VSCodeBuild.Cursor:
-      return "com.todesktop.230313mzl4w4u92";
+        return "com.todesktop.230313mzl4w4u92"
   }
 }
 
