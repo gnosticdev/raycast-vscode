@@ -16,13 +16,11 @@
     "tonka3000",
     "fazle_rabbi",
     "oilbeater",
-    "ninxa"
+    "gnostic"
   ],
   "keywords": [
     "vscode",
-    "cursor",
-    "ide",
-    "code editor"
+    "cursor"
   ],
   "license": "MIT",
   "commands": [
@@ -80,6 +78,10 @@
         {
           "value": "VSCodium",
           "title": "VSCodium"
+        },
+        {
+          "value": "Cursor",
+          "title": "Cursor"
         }
       ]
     },

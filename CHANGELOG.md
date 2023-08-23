@@ -1,5 +1,9 @@
 # Visual Studio Code Search Recent Projects Changelog
 
+## [Update] - 2023-08-23
+
+- Added support for Cursor (fork of VSCode)
+
 ## [Fix] - 2023-08-09
 
 - Fixed a bug that caused the extension to crash if wrong build was selected
